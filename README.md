@@ -30,4 +30,7 @@ This should create a production bundle for your extension, ready to be zipped an
 
 # gpt_writer_submission
 
-[![Watch the video]](https://raw.githubusercontent.com/adhishVerma/gpt_writer_linkedin/raw/main/demo.mp4)
+https://github.com/adhishVerma/linkedin_writer_submission/assets/111123216/f1b9536c-d890-4ecc-8ecd-8975d29ea68d
+
+
+
